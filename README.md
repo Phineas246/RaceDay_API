@@ -341,7 +341,7 @@ Developing POE_RaceDay_API has helped me gain a better understanding of how back
 
 Through this project, I have been able to work with API controllers, HTTP requests and responses, JWT authentication, and unit testing.
 
-I have also gained experience with GitHub Actions and how automated workflows can be used to build and test an application whenever changes are made.
+I have also gained a lot of experience with GitHub Actions and how automated workflows can be used to build and test an application whenever changes are made.
 
 One of the main things I have learned is that developing an API is not only about making endpoints work. It is also important to think about security, testing, error handling, and maintaining the project as it grows.
 
