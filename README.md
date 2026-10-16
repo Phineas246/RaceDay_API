@@ -347,4 +347,4 @@ One of the main things I have learned is that developing an API is not only abou
 
 There is still room to improve the project by adding more tests, improving security, and expanding the functionality of the API.
 
-Overall, this project has given me practical experience in backend development and helped me understand how different technologies can work together to create a more reliable application.
+Overall, this project has given me practical experience in backend development and helped me understand how different technologies can work together to create a more good application.
