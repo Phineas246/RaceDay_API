@@ -69,7 +69,7 @@ cd POE_RaceDay_API
 
 ### Step 2: Restore Dependencies
 
-Before running the application, restore the packages that the project needs.
+Before running the application, restore the package that the project needs.
 
 Run:
 
