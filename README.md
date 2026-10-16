@@ -27,7 +27,7 @@ The API is designed to handle different tasks related to race day management.
 Some of the main features include:
 
 - Handling HTTP requests through API controllers.
-- Managing and processing race day-related information.
+- Organising and processing race day-related information.
 - Checking incoming requests to make sure the information provided is valid.
 - Using JWT authentication to protect endpoints that require users to be authenticated.
 - Returning appropriate HTTP responses when requests are successful or when errors occur.
