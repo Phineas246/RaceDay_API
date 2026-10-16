@@ -144,7 +144,7 @@ For example, testing should include:
 - Checking that the API returns the correct HTTP status codes.
 - Testing endpoints that require authentication.
 - Checking what happens when an invalid JWT token is used.
-- Making sure the API handles errors correctly.
+- Making sure the API handles errors correctly and successfully.
 
 The available endpoints can be found by looking at the controllers in the project.
 
