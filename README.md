@@ -18,7 +18,7 @@ The following technologies and tools are used in this project:
 - **JWT Authentication:** Helps secure endpoints by checking whether users have valid authentication tokens.
 - **RESTful API:** Used to structure how the application handles requests and responses.
 - **Unit Testing:** Helps check that different parts of the application work as expected.
-- **GitHub Actions:** Used to automate building and testing the project whenever changes are made.
+- **GitHub Actions:** Used to automate make and testing the project whenever changes are made.
 
 ## 3. Project Features
 
