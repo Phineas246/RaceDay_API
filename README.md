@@ -87,7 +87,7 @@ After restoring the dependencies, build the project to check whether everything 
 dotnet build
 ```
 
-If the build is successful, the project is ready to run.
+If the build is correctly, the project is ready to run.
 
 If there are errors, check the messages displayed in the terminal to see what needs to be fixed.
 
