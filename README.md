@@ -207,7 +207,7 @@ A typical workflow follows these steps:
 5. **Run unit tests:** The automated tests are executed to check whether the tested functionality works correctly.
 6. **Display the results:** GitHub Actions shows whether the workflow completed successfully or failed.
 
-This process makes it easier to identify errors whenever changes are made to the project.
+This process makes it simple to identify errors whenever changes are made to the project.
 
 It also helps to make sure that new changes do not break functionality that was previously working.
 
