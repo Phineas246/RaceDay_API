@@ -6,7 +6,7 @@ POE_RaceDay_API is a Web API project that I developed using C# and ASP.NET Core.
 
 The API uses controllers to receive requests, process information, and return responses to users or other applications. I also included JWT (JSON Web Token) authentication to help protect certain endpoints and make sure that only authenticated users can access restricted parts of the system.
 
-This project also focuses on improving the reliability of the application through unit testing and using GitHub Actions to automate the build and testing process.
+This project also focuses on making the reliability of the application through unit testing and using GitHub Actions to automate the build and testing process.
 
 ## 2. Technologies Used
 
