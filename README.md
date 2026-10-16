@@ -31,7 +31,7 @@ Some of the main features include:
 - Validating incoming requests to ensure that the information provided is valid.
 - Using JWT authentication to protect endpoints that require users to be authenticated.
 - Returning appropriate HTTP responses when requests are successful or when errors occur.
-- Using unit tests to check that the controllers behave correctly.
+- Using unit tests to check that the controllers behave successfully.
 - Using GitHub Actions to automatically build and test the project.
 
 The exact functionality of the API depends on what has been implemented in the controllers.
