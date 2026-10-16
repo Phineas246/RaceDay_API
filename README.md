@@ -205,7 +205,7 @@ A typical workflow follows these steps:
 3. **Restore dependencies:** The required NuGet packages are restored.
 4. **Build the project:** The application is compiled to check for errors.
 5. **Run unit tests:** The automated tests are executed to check whether the tested functionality works correctly.
-6. **Display the results:** GitHub Actions shows whether the workflow completed successfully or failed.
+6. **Display the results:** GitHub Actions shows whether the workflow completed successfully or as erros.
 
 This process makes it simple to identify errors whenever changes are made to the project.
 
