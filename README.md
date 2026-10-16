@@ -209,9 +209,9 @@ A typical workflow follows these steps:
 
 This process makes it easier to identify errors whenever changes are made to the project.
 
-It also helps make sure that new changes do not break functionality that was previously working.
+It also helps to make sure that new changes do not break functionality that was previously working.
 
-The workflow needs to use the correct .NET version and reference the correct solution or test project.
+The workflow needs to use the right  .NET version and reference the correct solution or test project.
 
 ## 10. Project Structure
 
