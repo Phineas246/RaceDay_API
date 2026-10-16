@@ -28,7 +28,7 @@ Some of the main features include:
 
 - Handling HTTP requests through API controllers.
 - Organising and processing race day-related information.
-- Checking incoming requests to make sure the information provided is valid.
+- Validating incoming requests to make sure the information provided is valid.
 - Using JWT authentication to protect endpoints that require users to be authenticated.
 - Returning appropriate HTTP responses when requests are successful or when errors occur.
 - Using unit tests to check that the controllers behave correctly.
